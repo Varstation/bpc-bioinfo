@@ -1,1 +1,1 @@
-# Introdução aos Recursos de Bioinformática do UCSC
+# Introdução aos Recursos de Bioinformática do UCSC Genome Browser
