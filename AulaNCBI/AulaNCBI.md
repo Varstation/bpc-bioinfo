@@ -1,0 +1,3 @@
+# Introdução aos Recursos de Bioinformática do NCBI
+
+O Centro Nacional de Informação Biotecnológica ([NCBI](https://www.ncbi.nlm.nih.gov/)) fornece uma riqueza de informações nas áreas de medicina e ciências biológicas. A maioria das pessoas está familiarizada com os bancos de dados do [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) e [Medline Plus](https://medlineplus.gov/) para a literatura. Mas isso é apenas um pequeno subconjunto dos recursos disponíveis.
