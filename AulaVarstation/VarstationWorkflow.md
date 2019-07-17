@@ -1,4 +1,4 @@
-# Upload do FASTQ no fromt
+# Upload do FASTQ no front
 
 # Selecionar o Pipeline
 
