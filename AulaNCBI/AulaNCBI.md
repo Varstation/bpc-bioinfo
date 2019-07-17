@@ -18,17 +18,32 @@ Embora não seja estritamente necessário, é uma boa ideia criar sua própria c
 
 Todos os bancos de dados que permitem pesquisa possuem um recurso adicional que permite uma pesquisa mais estruturada.
 
-### Banco de dados *Gene*
+### Banco de dados [Gene](https://www.ncbi.nlm.nih.gov/gene/)
 
-Vamos ilustrar a utilização do banco de dados *Gene* descobrindo o que podemos sobre o gene que controla a digestão de lactose.
+Vamos ilustrar a utilização do banco de dados [Gene](https://www.ncbi.nlm.nih.gov/gene/) descobrindo o que podemos sobre o gene que controla a digestão de lactose.
 
-1. Pesquise pelo termo *Lactose Intolerance* no [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/).
-2. Em seguida, na caixa *Find Related Data* selecione o Banco *Gene* e clique em *Find items*
+* Pesquise pelo termo *Lactose Intolerance* no [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/).
+* Em seguida, na caixa *Find Related Data* selecione o Banco [Gene](https://www.ncbi.nlm.nih.gov/gene/) e clique em *Find items*
 
-> Se já conhecêssemos o nome do gene, poderíamos ter começado com uma pesquisa direta no banco de dados *Gene*
+> Se já conhecêssemos o nome do gene, poderíamos ter começado com uma pesquisa direta no banco de dados [Gene](https://www.ncbi.nlm.nih.gov/gene/)
 
 ### GenBank
 
 Navegando para a Sequência de Referência do [NCBI](https://www.ncbi.nlm.nih.gov/), podemos clicar no número *RefSeq* para ver o registro do *Nucleotide GenBank* para este gene.
+
+É importante usar o *RefSeq ID* para pesquisar no banco de dados [Nucleotide](https://www.ncbi.nlm.nih.gov/nuccore/) porque os dados de sequência podem ser alterados. Queremos estar usando sempre a última sequência disponível. 
+
+* Selecione o *RefSeq ID* do gene
+
+Agora temos as últimas informações detalhadas e curadas sobre a sequência do gene, bem como dados de sequência para seus produtos.
+
+
+### Banco de dados [Protein](https://www.ncbi.nlm.nih.gov/protein/)
+
+Agora que sabemos o nome do gene vamos pesquisar diretamente pelo nome do gene LCT
+
+* Pesquise pelo gene LCT no banco de dados [Protein](https://www.ncbi.nlm.nih.gov/protein/)
+
+> A maneira de escolher o registro correto é procurar o item curado. Neste caso o item que começa com [NP_](https://en.wikipedia.org/wiki/RefSeq).
 
 
