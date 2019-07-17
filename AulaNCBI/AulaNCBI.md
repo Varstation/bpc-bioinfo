@@ -27,7 +27,7 @@ Vamos ilustrar a utilização do banco de dados [Gene](https://www.ncbi.nlm.nih.
 
 > Se já conhecêssemos o nome do gene, poderíamos ter começado com uma pesquisa direta no banco de dados [Gene](https://www.ncbi.nlm.nih.gov/gene/)
 
-### GenBank
+### [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
 
 Navegando para a Sequência de Referência do [NCBI](https://www.ncbi.nlm.nih.gov/), podemos clicar no número *RefSeq* para ver o registro do *Nucleotide GenBank* para este gene.
 
