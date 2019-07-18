@@ -149,6 +149,34 @@ gedtlmeyle npkkyipgtk mifvgikkke eradliaylk katne
 * Acesse o banco de dados [Structure](https://www.ncbi.nlm.nih.gov/structure) e pesquise pelo gene LCT
 
 
-### Bancos de Variantes Genéticas
+### [Bancos de Variantes Genéticas](https://www.ncbi.nlm.nih.gov/guide/variation/)
 
 O NCBI fornece vários recursos de banco de dados para informações sobre variantes genéticas.
+
+#### [dbSNP](https://www.ncbi.nlm.nih.gov/snp/)
+
+O [dbSNP](https://www.ncbi.nlm.nih.gov/snp/) é um banco de dados que contém variantes humanas de um único nucleotídeo, microssatélites e inserções e deleções de pequena escala, juntamente com publicação, frequência , consequência molecular e informações de mapeamento genômico e *RefSeq* para variantes comuns e mutações clínicas.
+
+
+* Pesquise pelo gene LCT no [dbSNP](https://www.ncbi.nlm.nih.gov/snp/), filtre por patogênico e clique em *Varview* da primeira variante encontrada
+* A primeira página de resultados inclui muitas variantes. Aplique diferentes filtros.
+
+#### [dbVar](https://www.ncbi.nlm.nih.gov/dbvar/)
+
+[dbVar](https://www.ncbi.nlm.nih.gov/dbvar/) é o banco de dados de variantes estruturais que incluem inserções, deleções, duplicações, inversões, translocações e outros.
+
+* Pesquise pelo gene LCT no [dbVar](https://www.ncbi.nlm.nih.gov/dbvar/)
+
+#### [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)
+
+* Pesquise pelo *SNP ID* rs121908936
+
+#### [1000 Genome Browser](https://www.ncbi.nlm.nih.gov/variation/tools/1000genomes/)
+
+* Novamente pesquise pelo *SNP ID* rs121908936
+
+> Com qual a frequência esta mutação ocorre?
+
+
+
+
