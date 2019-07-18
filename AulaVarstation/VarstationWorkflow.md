@@ -36,3 +36,9 @@ Uma nova janela se abrirá com dados contendo nome da amostra, cobertura média,
 
 # Ferramentas de análise e classificação
 Para iniciar a análise das variantes, utilize a aba denominada VARIANTES. Para consultar as variantes chamadas, bem como as informações relevantes que foram associadas, continue navegando nessa aba. Para iniciar o processo de análise, clique em START.
+
+## Variantes germinativas
+Quando se está analisando variantes germinativas, logo abaixo do resumo da variante, na aba ACMG, encontra-se o resumo das regras utilizadas e seu peso combinado com a classificação resultante ao lado esquerdo. Em seguida, estão localizadas as 28 regras recomendadas pelo ACMG. O usuário deve checar se as informações são verdadeiras e alterar a(s) regra(s) manualmente, caso seja necessário.
+As regras possuem três opções de status: CUMPRIDA (quando se possui informações para utilizar a regra), NÃO CUMPRIDA (quando não se possui evidências para utilizar a regra) e A SER AVALIADA (quando a regra deve ser checada e procurar evidências para atribuí-la ou não). À direita do status da regra tem-se a descrição de cada uma delas e logo à direita um campo para
+inserir informações personalizadas.
+
