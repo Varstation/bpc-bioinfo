@@ -148,3 +148,7 @@ gedtlmeyle npkkyipgtk mifvgikkke eradliaylk katne
 
 * Acesse o banco de dados [Structure](https://www.ncbi.nlm.nih.gov/structure) e pesquise pelo gene LCT
 
+
+### Bancos de Variantes Genéticas
+
+O NCBI fornece vários recursos de banco de dados para informações sobre variantes genéticas.
