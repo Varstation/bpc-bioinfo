@@ -47,3 +47,11 @@ Agora que sabemos o nome do gene vamos pesquisar diretamente pelo nome do gene L
 > A maneira de escolher o registro correto é procurar o item curado. Neste caso o item que começa com [NP_](https://en.wikipedia.org/wiki/RefSeq).
 
 
+### [BLAST](http://blast.ncbi.nlm.nih.gov/)
+
+O [NCBI](https://www.ncbi.nlm.nih.gov/) fornece a ferramenta para busca de sequências - *Basic Local Alignment Sequence Tool* (BLAST) - que pode ser usada para:
+
+1. Encontrar registros de banco de dados semelhantes para sequências de proteínas ou de ácidos nucléicos
+2. Encontrar Domínios Conservados dentro das sequências
+3. Comparar e alinhar sequências
+
