@@ -133,3 +133,10 @@ gttcctggct tctgtgagca ccgtgctgac ctccaaatac cgttaagctg gagcctcggt
 ggccatgctt cttgcccctt gggcctcccc ccagcccctc ctccccttcc tgcacccgta
 cccccgtggt ctttgaataa agtctgagtg ggcggca
 ```
+
+* Pesquise pela sequência de aminoácidos
+
+```
+mgdvekgkki fimkcsqcht vekggkhktg pnlhglfgrk tgqapgysyt aanknkgiiw
+gedtlmeyle npkkyipgtk mifvgikkke eradliaylk katne
+```
