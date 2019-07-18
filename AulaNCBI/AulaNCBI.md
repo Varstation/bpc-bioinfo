@@ -55,3 +55,47 @@ O [NCBI](https://www.ncbi.nlm.nih.gov/) fornece a ferramenta para busca de sequ�
 2. Encontrar Domínios Conservados dentro das sequências
 3. Comparar e alinhar sequências
 
+#### [BLASTP](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome)
+
+* Pesquise pela sequência de aminoácidos.
+
+```
+melswhvvfi allsfscwgs dwesdrnfis tagpltndll hnlsgllgdq ssnfvagdkd
+myvchqplpt flpeyfsslh asqithykvf lswaqllpag stqnpdektv qcyrrllkal
+ktarlqpmvi lhhqtlpast lrrteafadl fadyatfafh sfgdlvgiwf tfsdleevik
+elphqesras qlqtlsdahr kayeiyhesy afqggklsvv lraedipell leppisalaq
+dtvdflsldl syecqneasl rqklsklqti epkvkvfifn lklpdcpstm knpasllfsl
+feainkdqvl tigfdinefl scsssskksm scsltgslal qpdqqqdhet tdsspasayq
+riweafanqs raerdaflqd tfpegflwga stgafnvegg waeggrgvsi wdprrplntt
+egqatlevas dsyhkvasdv allcglraqv ykfsiswsri fpmghgssps lpgvayynkl
+idrlqdagie pmatlfhwdl pqalqdhggw qnesvvdafl dyaafcfstf gdrvklwvtf
+hepwvmsyag ygtgqhppgi sdpgvasfkv ahlvlkahar twhhynshhr pqqqghvgiv
+lnsdwaepls perpedlras erflhfmlgw fahpvfvdgd ypatlrtqiq qmnrqcshpv
+aqlpefteae kqllkgsadf lglshytsrl isnapqntci psydtiggfs qhvnhvwpqt
+ssswirvvpw girrllqfvs leytrgkvpi ylagngmpig esenlfddsl rvdyfnqyin
+evlkaikeds vdvrsyiars lidgfegpsg ysqrfglhhv nfsdssksrt prksayffts
+iiekngfltk gakrllppnt vnlpskvraf tfpsevpska kvvwekfssq pkferdlfyh
+gtfrddflwg vsssayqieg awdadgkgps iwdnfthtpg snvkdnatgd iacdsyhqld
+adlnmlralk vkayrfsisw srifptgrns sinshgvdyy nrlinglvas nifpmvtlfh
+wdlpqalqdi ggwenpalid lfdsyadfcf qtfgdrvkfw mtfnepmyla wlgygsgefp
+pgvkdpgwap yriahavika harvyhtyde kyrqeqkgvi slslsthwae pkspgvprdv
+eaadrmlqfs lgwfahpifr ngdypdtmkw kvgnrselqh latsrlpsft eeekrfirat
+advfclntyy srivqhktpr lnppsyeddq emaeeedpsw pstamnraap wgtrrllnwi
+keeygdipiy itengvgltn pntedtdrif yhktyineal kayrldgidl rgyvawslmd
+nfewlngytv kfglyhvdfn ntnrprtara saryytevit nngmplared eflygrfpeg
+fiwsaasaay qiegawradg kglsiwdtfs htplrvenda igdvacdsyh kiaedlvtlq
+nlgvshyrfs iswsrilpdg ttryineagl nyyvrlidtl laasiqpqvt iyhwdlpqtl
+qdvggwenet ivqrfkeyad vlfqrlgdkv kfwitlnepf viayqgygyg taapgvsnrp
+gtapyivghn likahaeawh lyndvyrasq ggvisitiss dwaeprdpsn qedveaarry
+vqfmggwfah pifkngdyne vmktrirdrs laaglnksrl peftesekrr ingtydffgf
+nhyttvlayn lnyataissf dadrgvasia drswpdsgsf wlkmtpfgfr rilnwlkeey
+ndppiyvten gvsqreetdl ndtariyylr tyinealkav qdkvdlrgyt vwsamdnfew
+atgfserfgl hfvnysdpsl pripkasakf yasvvrcngf pdpatgphac lhqpdagpti
+spvrqeevqf lglmlgttea qtalyvlfsl vllgvcglaf lsykyckrsk qgktqrsqqe
+lspvssf
+```
+
+* Pesquise pelo *RefSeq ID* NP_002290
+
+> Um resultado importante dos resultados de pesquisa do BLASTP são os Domínios Conservados encontrados para a proteína
+
