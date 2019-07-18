@@ -27,4 +27,4 @@ Os filtros serão utilizados para excluir variantes que não interessam na anál
 
 # Envio (upload) de arquivos para o Varstation
 Os formatos de arquivos suportados pela plataforma são .FASTQ, .BAM e .VCF.
-
+Na página inicial, arraste os arquivos desejados até a área demarcada na parte central da página ou clique em selecionar arquivos. Escolha os arquivos desejados no browser de arquivos e então clique em "abrir". Caso os arquivos tenham sido arrastados, clique em "Continuar".
