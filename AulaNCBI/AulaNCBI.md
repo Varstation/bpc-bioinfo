@@ -146,5 +146,5 @@ gedtlmeyle npkkyipgtk mifvgikkke eradliaylk katne
 
 ### [Structure](https://www.ncbi.nlm.nih.gov/structure)
 
-* Pesquise pelo gene LCT
+* Acesse o banco de dados [Structure](https://www.ncbi.nlm.nih.gov/structure) e pesquise pelo gene LCT
 
