@@ -99,3 +99,37 @@ lspvssf
 
 > Um resultado importante dos resultados de pesquisa do BLASTP são os Domínios Conservados encontrados para a proteína
 
+#### [BLASTN](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome)
+
+* Pesquise pela sequência de nucleotídeos. 
+> A qual gene esta sequência pertence?
+
+```
+gt accttgattt cgtattctga gaggctgctg cttagcggta gccccttggt 
+ttccgtggca acggaaaagc gcgggaatta cagataaatt aaaactgcga ctgcgcggcg 
+tgagctcgct gagacttcct ggacggggga caggctgtgg ggtttctcag ataactgggc 
+ccctgcgctc aggaggcctt caccctctgc tctgggtaaa g
+```
+
+
+
+#### [BlastX](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastx&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) e [tBlastN](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=tblastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome)
+
+* Pesquise pela sequência de nucleotídeos. 
+
+> Que tipo de molécula é essa DNA, mRNA ou proteína? 
+> Qual proteína retornou melhor similaridade? 
+> Quantos aminoácidos a proteína similar alinhou com a sequência acima?
+
+``` 
+actcttctgg tccccacaga ctcagagaga acccaccatg gtgctgtctc ctgccgacaa
+gaccaacgtc aaggccgcct ggggtaaggt cggcgcgcac gctggcgagt atggtgcgga
+ggccctggag aggatgttcc tgtccttccc caccaccaag acctacttcc cgcacttcga
+cctgagccac ggctctgccc aggttaaggg ccacggcaag aaggtggccg acgcgctgac
+caacgccgtg gcgcacgtgg acgacatgcc caacgcgctg tccgccctga gcgacctgca
+cgcgcacaag cttcgggtgg acccggtcaa cttcaagctc ctaagccact gcctgctggt
+gaccctggcc gcccacctcc ccgccgagtt cacccctgcg gtgcacgcct ccctggacaa
+gttcctggct tctgtgagca ccgtgctgac ctccaaatac cgttaagctg gagcctcggt
+ggccatgctt cttgcccctt gggcctcccc ccagcccctc ctccccttcc tgcacccgta
+cccccgtggt ctttgaataa agtctgagtg ggcggca
+```
