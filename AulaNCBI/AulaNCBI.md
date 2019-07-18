@@ -136,7 +136,15 @@ cccccgtggt ctttgaataa agtctgagtg ggcggca
 
 * Pesquise pela sequência de aminoácidos
 
+> Qual foi a sequência mais similar?
+> Qual é o tamanho em aminoácidos?
+
 ```
 mgdvekgkki fimkcsqcht vekggkhktg pnlhglfgrk tgqapgysyt aanknkgiiw
 gedtlmeyle npkkyipgtk mifvgikkke eradliaylk katne
 ```
+
+### [Structure](https://www.ncbi.nlm.nih.gov/structure)
+
+* Pesquise pelo gene LCT
+
