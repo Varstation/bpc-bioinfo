@@ -177,6 +177,10 @@ O [dbSNP](https://www.ncbi.nlm.nih.gov/snp/) é um banco de dados que contém va
 
 > Com qual a frequência esta mutação ocorre?
 
+### [MedGen](https://www.ncbi.nlm.nih.gov/medgen/)
 
+Organiza informações relacionadas à genética médica humana, como descreve condições com contribuição genética.
+
+* Pesquise pelo gene LCT
 
 
