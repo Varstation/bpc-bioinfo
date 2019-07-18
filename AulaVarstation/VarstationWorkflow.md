@@ -33,4 +33,5 @@ Na página inicial, arraste os arquivos desejados até a área demarcada na part
 Quando o processamento da rotina for finalizado, ela ficará com o status, indicando que está pronta para ser analisada. Para iniciar a análise das métricas de qualidade, clique na rotina desejada. A janela mostrará dados da corrida e do processamento. Para visualizar as métricas de qualidade, clique em MÉTRICAS.
 Uma nova janela se abrirá com dados contendo nome da amostra, cobertura média, uniformidade, cobertura média no alvo, valor de phred score (Q) para avaliar o mapeamento, cobertura UMI (quando houver) e o status final. Quando uma ou mais métricas não passarem no controle de qualidade, ela ficará vermelha e caso necessário a amostra poderá ser rejeitada da análise. Para isso, basta clicar no botão vermelho localizado do lado direito da amostra com métricas reprovadas.
 
-
+# Ferramentas de análise e classificação
+Para iniciar a análise das variantes, utilize a aba denominada VARIANTES. Para consultar as variantes chamadas, bem como as informações relevantes que foram associadas, continue navegando nessa aba. Para iniciar o processo de análise, clique em START.
