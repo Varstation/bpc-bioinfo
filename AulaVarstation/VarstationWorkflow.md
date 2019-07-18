@@ -28,3 +28,9 @@ Os filtros serão utilizados para excluir variantes que não interessam na anál
 # Envio (upload) de arquivos para o Varstation
 Os formatos de arquivos suportados pela plataforma são .FASTQ, .BAM e .VCF.
 Na página inicial, arraste os arquivos desejados até a área demarcada na parte central da página ou clique em selecionar arquivos. Escolha os arquivos desejados no browser de arquivos e então clique em "abrir". Caso os arquivos tenham sido arrastados, clique em "Continuar".
+
+# Analisando as métricas de sequenciamento
+Quando o processamento da rotina for finalizado, ela ficará com o status, indicando que está pronta para ser analisada. Para iniciar a análise das métricas de qualidade, clique na rotina desejada. A janela mostrará dados da corrida e do processamento. Para visualizar as métricas de qualidade, clique em MÉTRICAS.
+Uma nova janela se abrirá com dados contendo nome da amostra, cobertura média, uniformidade, cobertura média no alvo, valor de phred score (Q) para avaliar o mapeamento, cobertura UMI (quando houver) e o status final. Quando uma ou mais métricas não passarem no controle de qualidade, ela ficará vermelha e caso necessário a amostra poderá ser rejeitada da análise. Para isso, basta clicar no botão vermelho localizado do lado direito da amostra com métricas reprovadas.
+
+
