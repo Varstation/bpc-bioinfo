@@ -1,6 +1,6 @@
 # Introdução aos Recursos de Bioinformática do UCSC Genome Browser
 
-O Navegador do Genoma do UCSC foi criado para fornecer uma visualização gráfico sobre a grande quantidade de sequências genômicas produzidas pelo Projeto Genoma Humano. À medida que o tamanho e a cobertura do genoma humano aumentou, o foco mudou para a identificação e mapeamento de pontos de referência funcionais, como marcadores genéticos conhecidos, genes, pontos de regulação e características citológicas, como centrômeros e telômeros. O UCSC Genome Browser é amplamente utilizado por pesquisadores e médicos geneticistas para visualizar anotações genômicas.
+O UCSC Genome Browser foi criado para fornecer uma visualização gráfica da grande quantidade de sequências genômicas produzidas pelo Projeto Genoma Humano. À medida que o tamanho e a cobertura do genoma humano aumentou, o foco mudou para a identificação e mapeamento de marcos funcionais, tais como marcadores genéticos conhecidos, genes, pontos de regulação e características citológicas, como centrômeros e telômeros. O UCSC Genome Browser é amplamente utilizado por pesquisadores e médicos geneticistas para visualizar anotações genômicas.
 
 ### [Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway)
 
